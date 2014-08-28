@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "coffee-script": "*",
+    "require-dir": "*",
+    "gulp": "*",
+    "gulp-sketch": "*"
+  },
+  "private": true
+}
