@@ -1,4 +1,4 @@
-# Coder for Setagaya: Logo
+# Code for Setagaya: Logo
 
 ## バリエーション
 
